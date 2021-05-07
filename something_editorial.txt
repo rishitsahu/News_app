@@ -1,0 +1,211 @@
+When is Nothing Something? Editorial for the Null Results Special Issue of Journal of Business and Psychology</p></p>Ronald S. Landis , Rlandis Iit.Edu , Illinois Institute Of Technology , Chicago , Lawrence R. James , Georgia Institute Of Technology , Atlanta , Charles E. Lance , University Of Georgia , Athens , </p></p>Why might we encourage null results and want a home for them? We can think of several possible reasons. First, what if an organization was choosing between investing resources in one of two training programs? Imagine further that one of the interventions was relatively inexpensive (e.g., $50 per employee) and the other was relatively expensive (e.g., $100 per employee). If data collected from multiple experiments revealed that there was no significant difference in the effect of these training programs on valued outcomes (e.g., employee performance), such results would be quite valuable to organizational decision makers.
+
+A second scenario in which we might find null results not only valuable, but also even ideal, is when we create a test. With almost all such cases, we hope our test does not show differences across subgroups and that the weight associated with the interaction term in our regression model was nonsignificant. Extending this example to a related context, imagine a researcher testing a structural model in which she hopes to find evidence that the set of relations is similar between males and females. In testing this model, the researcher compares two models. One of the models allows for the parameters to freely vary while the second constrains the loadings to be equal across groups. If the fit of the second model were not significantly different than the fit of the first, the researcher would be pleased.
+
+A third scenario may involve the testing of a theory and it’s various propositions. Although finding data supportive of particular propositions is certainly noteworthy, so is the case of finding that certain propositions are not supported. In other words, the researcher’s null findings serve as key information for the usefulness and/or validity of the theory in question.
+
+The Elephant in the Room
+
+To this point, we have painted a somewhat rosy picture of null results. We cannot ignore, however, the fact that null results may often be the product of poor research design, inadequate measurement, or a host of other methodological shortcomings. In a recent commentary, Leavitt (2013) succinctly summarized why uncritical interpretation of null results may lead to a far worse scientific corpus than ignoring meaningful null results ever would. Rather than assuming that all null results are to be discarded, however, we believe that those produced through rigorous designs may provide important information.
+
+A More Complete Picture
+
+Ultimately, our science is better to the extent that we publish robust findings that emerge in our research studies regardless of whether those results are "significant" or "nonsignificant." The spirit behind this special issue is to suggest that we need a complete picture of our phenomena of interest to truly advance our scientific knowledge. Not publishing meaningful null results is like painting a picture of a landscape on a clear day missing the color blue. We can appreciate that editorial decisions would certainly be rendered simpler by applying a shorthand rule of thumb like, “Papers that report null results should be rejected.” Such a rule of thumb, however, is an oversimplification and one that may have a deleterious effect on our accumulated knowledge. In the following sections, we offer some recommendations to editors, reviewers, and authors that may facilitate the appropriate evaluation of null results in our literature.</p></p></p></p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</p></p>(PDF) When is Nothing Something? Editorial for the Null Results Special Issue of Journal of Business and Psychology</p></p>Authors , </p></p>In the remainder of this editorial statement, we would
+
+like to address the broad issue of publishing null results and
+
+provide a summary of how the papers in this special half-
+
+issue are examples of how null results inform our science.
+
+What Happened?
+
+In thinking about why we received relatively few propos-
+
+als, several explanations seem possible. For example,
+
+perhaps there are simply few times when we conduct
+
+research and actually observe null results. This, of course,
+
+is patently absurd. Another potential explanation is that our
+
+call for proposals went unnoticed and was simply not
+
+communicated widely and loudly enough. Though this
+
+possibility is more realistic than the ﬁrst, our call went
+
+through the same channels as almost all other special issue
+
+calls for proposals, so it also seems an unlikely reason. A
+
+third possible explanation is that we, as a ﬁeld, are simply
+
+not conditioned to respond to a call as outlandish as one
+
+asking for null results. Indeed, the request for null results
+
+may have struck many researchers as so ‘ ‘out there’ ’ as to
+
+strain credulity. Perhaps people thought this call for pro-
+
+posals was a product of The Onion ?
+
+Most compelling to us, perhaps the reason we received
+
+the relatively few proposals that we did is a product of
+
+(a) being conditioned to view null results as worthless and
+
+(b) recognition (self-awareness) of the methodological
+
+deﬁciencies in our own work that may be driving null
+
+results. If the ﬁrst reason was the primary driver of indi-
+
+viduals’ decisions not to submit to this special issue, we
+
+need to more broadly consider the value of research and not
+
+to be so quick to assume that null ﬁndings mean, we learn
+
+nothing from the study (Landis and Rogelberg 2013 ). If the
+
+second reason is the explanation, then we should be col-
+
+lectively proud that we recognize null results frequently are
+
+produced by measures with poor reliability, research
+
+designs that are not appropriate for answering the question
+
+at hand, low statistical power, and a litany of other meth-
+
+odological ﬂaws.
+
+Why Encourage Publication of Null Results?
+
+Why might we encourage null results and want a home for
+
+them? We can think of several possible reasons. First, what
+
+if an organization was choosing between investing
+
+resources in one of two training programs? Imagine further
+
+that one of the interventions was relatively inexpensive
+
+(e.g., $50 per employee) and the other was relatively
+
+expensive (e.g., $100 per employee). If data collected from
+
+multiple experiments revealed that there was no signiﬁcant
+
+difference in the effect of these training programs on
+
+valued outcomes (e.g., employee performance), such
+
+results would be quite valuable to organizational decision
+
+makers.
+
+A second scenario in which we might ﬁnd null results
+
+not only valuable, but also even ideal, is when we create a
+
+test. With almost all such cases, we hope our test does not
+
+show differences across subgroups and that the weight
+
+associated with the interaction term in our regression
+
+model was nonsigniﬁcant. Extending this example to a
+
+related context, imagine a researcher testing a stru ctural
+
+model in which she hopes to ﬁnd evidence that the set of
+
+relations is similar between males and females. In testing
+
+this model, the researcher compares two models. One of
+
+the models allows for the parameters to freely vary while
+
+the second constrains the loadings to be equal across
+
+groups. If the ﬁt of the second model were not signiﬁcantly
+
+different than the ﬁt of the ﬁrst, the researcher would be
+
+pleased.
+
+A third scenario may involve the testing of a theory and
+
+it’s various propositions. Although ﬁnding data supportive
+
+of particular propositions is certainly noteworthy, so is the
+
+case of ﬁnding that certain propositions are not supported.
+
+In other words, the researcher’s null ﬁndings serve as key
+
+information for the usefulness and/or validity of the theory
+
+in question.
+
+The Elephant in the Room
+
+To this point, we have painted a somewhat rosy picture of
+
+null results. We cannot ignore, however, the fact that null
+
+results may often be the product of poor research design,
+
+inadequate measurement, or a host of other methodological
+
+shortcomings. In a recent commentary, Leavitt ( 2013 )
+
+succinctly summarized why uncritical interpretation of null
+
+results may lead to a far worse scientiﬁc corpus than
+
+ignoring meaningful null results ever would. Rather than
+
+assuming that all null results are to be discarded, however,
+
+we believe that those produced through rigorous designs
+
+may provide important information.
+
+A More Complete Picture
+
+Ultimately, our science is better to the extent that we
+
+publish robust ﬁndings that emerge in our research studies
+
+regardless of whether those results are ‘‘signiﬁcant’ ’ or
+
+‘ ‘nonsigniﬁcant.’ ’ The spirit behind this special issue is to
+
+suggest that we need a complete picture of our phenomena
+
+of interest to truly advance our scientiﬁc knowledge. Not
+
+publishing meaningful null results is like painting a picture
+
+of a landscape on a clear day missing the color blue. We
+
+can appreciate that editorial decisions would certainly be
+
+rendered simpler by applying a shorthand rule of thumb
+
+like, ‘ ‘Papers that report null results should be rejected.’ ’
+
+J Bus Psychol
+
+123</p></p></p></p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</p></p>Wanted to do something editorial ish and the...</p></p></p></p>Here it is! My new channel trailer!! SUBSCRIBE TO MY YOUTUBE FOR REVIEWS, TUTORIAL AND LOTS OF FUN CONTENT! I created this myself and learned a new program! 😜 I still have lots to learn but as most of you know I am investing in my channel and content creation. Hope you enjoyed this! Let me know in the comments below any video suggestions you’d like to see from me.</p></p></p></p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</p></p>Wanted to do something editorial ish and the...</p></p></p></p>Here it is! My new channel trailer!! SUBSCRIBE TO MY YOUTUBE FOR REVIEWS, TUTORIAL AND LOTS OF FUN CONTENT! I created this myself and learned a new program! 😜 I still have lots to learn but as most of you know I am investing in my channel and content creation. Hope you enjoyed this! Let me know in the comments below any video suggestions you’d like to see from me.</p></p></p></p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</p></p>

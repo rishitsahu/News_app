@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        {% for i in article %}
+        <div>
+            <i><b>{{ i.title }}</b></i>
+            <br>
+            <b>{{ i.author }}</b>
+            <br>
+            {{ i.text }}
+            <br>
+            <br>
+        </div>
+        {% endfor %}
+        <button><a href="{% url 'Save' %}">Save in drive</a></button>
+    </body>
+</html>

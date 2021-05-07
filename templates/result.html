@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block title %}
+Articles
+{% endblock title %}
+
+{% block body %}
+<div class="container">
+{% for i in article %}
+        <div>
+            <i><b>{{ i.title }}</b></i>
+            <br>
+            <b>{{ i.author }}</b>
+            <br>
+            {{ i.text }}
+            <br>
+            <br>
+        </div>
+        {% endfor %}
+        <button><a href="{% url 'Save' %}">Save in drive</a></button>
+</div>
+{% endblock body %}
